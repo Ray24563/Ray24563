@@ -1,9 +1,9 @@
 # Hi, I'm Charles! 👋
 
-### About Me:
+### 🙋‍♂️ About Me:
  🔭 A 4th-year student aspiring to become a professional Frontend Developer, eager to embrace opportunities and continuously learn to expand my skills and knowledge for both personal and professional growth.
 
-### Tech Stack:
+### ⚡ Tech Stack:
 
 <p align="center">💻 Programming Language:</p>
 
