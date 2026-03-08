@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Blackbox-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Warp-4C51BF?style=for-the-badge&logo=warp&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
 
 <p align="center"> 📚 Currently Learning </p>
