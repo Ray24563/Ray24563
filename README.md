@@ -45,8 +45,9 @@
 <p align="center"> 📚 Currently Learning </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-1B2E4B?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Proper%20AI%20Prompting-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Modern%20Browser%20Behavior-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20App%20Optimization-FF6F00?style=for-the-badge&logo=webflow&logoColor=white" />
