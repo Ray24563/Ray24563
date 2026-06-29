@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Blackbox-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Warp-4C51BF?style=for-the-badge&logo=warp&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
- <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
 
 <p align="center"> 📚 Currently Learning </p>
@@ -51,11 +51,6 @@
   <img src="https://img.shields.io/badge/Proper%20AI%20Prompting-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Modern%20Browser%20Behavior-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20App%20Optimization-FF6F00?style=for-the-badge&logo=webflow&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray24563&layout=compact&theme=radical" height="150"/>
 </p>
 
 ### 📬 Reach Me
